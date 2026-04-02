@@ -1,15 +1,15 @@
 # Sales Data Mart: End-to-End ETL & BI Implementation
-**Developer:** [Bishoy Hany Halim/]  
+**Developer:** Bishoy Hany Halim 
 **Specialization:** Database Engineering
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates the design and implementation of a professional **Sales Data Mart** using **SQL Server Integration Services (SSIS)**. The goal was to transform raw transactional data from an OLTP source (AdventureWorks) into a structured Dimensional Model (Star Schema) optimized for analytical reporting and Business Intelligence.
 
 The project covers the entire lifecycle: from **Source Profiling** and **Dimensional Modeling** to complex **ETL Pipeline Development** and **SCD (Slowly Changing Dimension)** management.
 
-## 🚀 Key Features & Implementation Steps
+##  Key Features & Implementation Steps
 
 ### 1. Dimensional Modeling
 * **Schema Design:** Implemented a **Star Schema** consisting of a Central Fact Table and multiple Dimension Tables (`Dim_Customer`, `Dim_Product`, `Dim_Date`).
@@ -34,7 +34,7 @@ The ETL logic was built using SQL Server Data Tools (SSDT) with a focus on data 
 
 ---
 
-## 🔍 Technical Deep Dive: The ETL Logic
+##  Technical Deep Dive: The ETL Logic
 
 ### Dim_Customer Flow
 The package utilizes a dedicated SCD component to split incoming data into three streams:
@@ -52,14 +52,14 @@ To maintain a high-performance star schema, the product flow performs multi-stag
 
 ---
 
-## 👤 About the Author
+##  About the Author
 I am a specialist in **Database Engineering**. My expertise includes:
 * **Database Architecture:** SQL Server, Data Warehousing, and OLAP/OLTP optimization.
 * **Development:** ETL Development (SSIS).
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 If you have questions about this project or want to discuss Data Engineering, feel free to reach out.
 
 [[linkedin](https://www.linkedin.com/in/bishoyhanyhalim/)]
