@@ -33,9 +33,9 @@ The ETL logic was built using SQL Server Data Tools (SSDT) with a focus on data 
 * **Environment:** Windows 11 / Visual Studio 2022
 
 
-![Alt Text](images/Screenshot (3).png)
+![Alt Text](images/Screenshot(3).png)
 
-![Alt Text](images/Screenshot (4).png)
+![Alt Text](images/Screenshot(4).png)
 
 
 ---
