@@ -32,6 +32,12 @@ The ETL logic was built using SQL Server Data Tools (SSDT) with a focus on data 
 * **RDBMS:** SQL Server (SSMS)
 * **Environment:** Windows 11 / Visual Studio 2022
 
+
+![Alt Text](images/Screenshot (3).png)
+
+![Alt Text](images/Screenshot (4).png)
+
+
 ---
 
 ##  Technical Deep Dive: The ETL Logic
