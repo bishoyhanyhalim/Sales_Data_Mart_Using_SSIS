@@ -1,6 +1,6 @@
-# Sales Data Mart: End-to-End ETL & BI Implementation
+# Sales Data Mart: End-to-End ETL
 **Developer:** Bishoy Hany Halim 
-**Specialization:** Database Engineering
+**Specialization:** Data Engineer
 
 ---
 
@@ -69,3 +69,5 @@ I am a specialist in **Database Engineering**. My expertise includes:
 If you have questions about this project or want to discuss Data Engineering, feel free to reach out.
 
 [[linkedin](https://www.linkedin.com/in/bishoyhanyhalim/)]
+
+[[Portfolio](https://bishoyhanyhalim.netlify.app/)]
